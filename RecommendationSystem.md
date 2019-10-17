@@ -18,7 +18,7 @@ https://apps.apple.com/kw/app/yahaal/id1076298359
 
 whenever someone adds an item (say **Product A**) to the cart (A virtual shopping cart in the mobile app, just like we have seen in Amazon/Flipkart etc..) I make a call to the recommendation system to bring up the recommended products for **Product A**
 
-Then 
+Then the algorithm works as follows
     
 1. The software brings up all the orders which contained this particular **Product A**
     
